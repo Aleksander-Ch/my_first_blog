@@ -34,14 +34,6 @@ if ($is_Windows) {
 
 echo PHP_EOL . BOO;
 
-class CardEnum {
-    const DEBIT = '';
-    const CREDIT = '';
-}
-
-
-CardEnum::CREDIT;
-
 
 
 
